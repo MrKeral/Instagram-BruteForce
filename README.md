@@ -13,7 +13,7 @@
     python3 instaBruteforce.py <br>
     
 # Instructions
-To run this tool you have to create wordlist for the victim using social engineering.
-CUPP is nice tool to create worlist of the victim.
-Now create the worlist and save it with  ".txt" extension
-In this line "Please enter your wordlist file's name : pass" you have to write only the name of that file without extension.
+- To run this tool you have to create wordlist for the victim using social engineering.<br>
+- CUPP is nice tool to create worlist of the victim.<br>
+- Now create the worlist and save it with  ".txt" extension. <br>
+- In this line "Please enter your wordlist file's name : pass" you have to write only the name of that file without extension.
