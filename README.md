@@ -7,4 +7,7 @@
 -  Selenium (sudo pip3 install selenium)
 
 # How To Install
-## ccvcvc
+> git clone https://github.com/MrKeral/Instagram-BruteForce
+> cd Instagram-BruteForce
+> chmod +x instaBruteforce.py
+> python3 instaBruteforce.py
