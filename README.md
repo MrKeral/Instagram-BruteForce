@@ -1,5 +1,6 @@
 # Instagram-BruteForce
-![image](https://github.com/MrKeral/Instagram-BruteForce/assets/82687464/bf277b9f-2182-4a30-8162-e70b210f0cf5)
+![image](https://github.com/MrKeral/Instagram-BruteForce/assets/82687464/4c9a6ac7-8434-400f-bf5e-d9439b908b1f)
+
 
 # Requirements
     python3  (sudo apt install python3)
