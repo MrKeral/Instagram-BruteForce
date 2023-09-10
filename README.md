@@ -8,10 +8,10 @@
     Selenium (sudo pip3 install selenium)
 
 # How To Install
-    git clone https://github.com/MrKeral/Instagram-BruteForce <br>
-    cd Instagram-BruteForce <br>
-    chmod +x instaBruteforce.py <br>
-    python3 instaBruteforce.py <br>
+    git clone https://github.com/MrKeral/Instagram-BruteForce 
+    cd Instagram-BruteForce 
+    chmod +x instaBruteforce.py 
+    python3 instaBruteforce.py 
     
 # Instructions
 - To run this tool you have to create wordlist for the victim using social engineering.<br>
